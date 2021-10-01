@@ -1,6 +1,6 @@
 import numbers from './data/numbers'
 
-export function calculate(number: string): string {
+export function convert(number: string): string {
   const chunked = number.match(/.{1,3}/g)
   if (!chunked) throw new Error('No pairs found')
   const resultArr = chunked.map(chunk => {
