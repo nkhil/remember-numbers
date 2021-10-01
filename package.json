@@ -1,6 +1,6 @@
 {
   "name": "remember-numbers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -8,7 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": ["convert numbers", "remember numbers"],
+  "keywords": [
+    "convert numbers",
+    "remember numbers"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
