@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["convert numbers", "remember numbers"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
