@@ -725,7 +725,7 @@ const numbers :Numbers = {
   '719': 'business',
   '720': 'religious',
   '721': 'poem',
-  '722': 'African-American',
+  '722': 'African',
   '723': 'active',
   '724': 'luck',
   '725': 'hi',
